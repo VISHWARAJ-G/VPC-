@@ -1,4 +1,4 @@
-# Exercise 4: Deployment and Configuration of a Private Cloud in AWS
+# Ex 4: Deployment and Configuration of a Private Cloud in AWS
 
 ## Aim:
 To set up a Private Cloud in AWS.
